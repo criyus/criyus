@@ -18,11 +18,11 @@
 
 - 📫 How to reach me **contact@criyus.com**
 
-- 👨‍💻 All of my projects are available at **[https://criyus.com](https://criyus.com)**
+- 👨‍💻 All of my projects are available at **[https://criyus.com/project](https://criyus.com/project)**
 
-- 📝 I regularly write articles on **[https://blog.criyus.com](https://blog.criyus.com)**
+- 📝 I regularly write articles on **[https://criyus.com/blog](https://criyus.com/blog)**
 
-- 📄 Know about my experiences **[https://criyus.com/cv](https://criyus.com/cv)**
+- 📄 Know about my experiences **[https://criyus.com](https://criyus.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
