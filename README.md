@@ -18,9 +18,9 @@
 
 - 📫 How to reach me **contact@criyus.com**
 
-- 👨‍💻 All of my projects are available at **[https://criyus.com/project](https://criyus.com/project)**
+- 👨‍💻 All of my projects are available at **[https://criyus.com/project](https://projects.criyus.com)**
 
-- 📝 I regularly write articles on **[https://criyus.com/blog](https://criyus.com/blog)**
+- 📝 I regularly write articles on **[https://criyus.com/blog](https://blog.criyus.com)**
 
 - 📄 Know about my experiences **[https://criyus.com](https://criyus.com)**
 
