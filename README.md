@@ -12,7 +12,7 @@
 
 - 👯 I'm looking to collaborate on **Open Source Project**
 
-- 🤝 I'm looking for help with **Artificial Intelligence and Cyber Security**
+- 🤝 I'm looking for help with **Artificial Intelligence and Ethical Hacker**
 
 - 💬 Ask me about **System Architect**
 
